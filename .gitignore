@@ -1,0 +1,6 @@
+/broken_region_add
+/old_dbs
+/venv/
+/.idea/
+/log_file.txt
+*.db
