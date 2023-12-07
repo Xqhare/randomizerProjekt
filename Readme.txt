@@ -1,7 +1,7 @@
 Xqhare's randomizer project 0.6.x
 This is my attempt at generating "english text" in various forms.
 
-ca 3.700 loc, las tcount dec.23
+ca 3.700 loc; ca 5.300 loc with old history; last count dec.23
 
 ---------------------------GENERAL-DOC-------------------------
 To start type in terminal: "python3 main.py"; for tester type: "python3 tester.py".
